@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<characters version="5">
+	<pc>
+		<label>Richard Daek</label>
+		<name>Human Sorcerer 6</name>
+		<level>6</level>
+		<size>M</size>
+		<ac>11</ac>
+		<hp>33/40 (6d6)</hp>
+		<speed>30 ft.</speed>
+		<str>11</str><dex>13</dex><con>15</con><int>14</int><wis>9</wis><cha>18</cha>
+		<save>Constitution +5</save>
+		<save>Charisma +7</save>
+		<skill>Arcana +5</skill>
+		<skill>Deception +7</skill>
+		<skill>Insight +2</skill>
+		<skill>Religion +5</skill>
+		<passive>9</passive>
+		<languages>You can speak, read, and write Common and Giant.</languages>
+		<action>
+			<name>Light crossbow +2</name>
+			<text>Ranged Weapon Attack: +6 to hit, range 80/320 ft., one target. Hit: 1d8 + 3 piercing damage.</text>
+			<attack>|+3|1d8+3</attack>
+		</action>
+		<action>
+			<name>Quarterstaff</name>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d6 bludgeoning damage.</text>
+			<attack>|+3|1d6</attack>
+		</action>
+		<action>
+			<name>Spider quarterstaff</name>
+			<text>Melee Weapon Attack: +3 to hit, reach 5 ft., one target. Hit: 1d8 bludgeoning damage.</text>
+			<attack>|+3|1d8</attack>
+		</action>
+		<action>
+			<name>Dart</name>
+			<text>Ranged Weapon Attack: +4 to hit, range 20/60 ft., one target. Hit: 1d4 + 1 piercing damage.</text>
+			<attack>|+4|1d4+1</attack>
+		</action>
+	</pc>
+</characters>

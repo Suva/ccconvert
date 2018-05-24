@@ -1,0 +1,25 @@
+{
+  "name": "ccconvert",
+  "version": "1.0.0",
+  "description": "Script to convert PDF charseets with interactive forms for importing into Lion's Den Game Master 5 format for importing.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "ccconvert": "./index.js"
+  },
+  "keywords": [
+    "rpg",
+    "gm5",
+    "game master 5th edition",
+    "d&d",
+    "character sheet"
+  ],
+  "author": "Jaan Pullerits <clysuva@gmail.com>",
+  "license": "ISC",
+  "dependencies": {
+    "commander": "^2.15.1",
+    "pdf2json": "^1.1.7"
+  }
+}
