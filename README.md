@@ -8,7 +8,8 @@ but currently only supported path is:
 - D&D Beyond -> GameMaster 5E
 
 If you need mappings for additional formats, please forward me
-the sample files with enough data filled to satisfy the needs.
+the sample files with enough data filled to satisfy the needs or
+write the mapper yourself and make a pull request.
 
 Installation
 ------------
