@@ -1,13 +1,16 @@
 {
   "name": "ccconvert",
   "version": "1.0.0",
-  "description": "Script to convert PDF charseets with interactive forms for importing into Lion's Den Game Master 5 format for importing.",
+  "description": "Script to convert PDF character sheets with interactive forms for importing into Lion's Den Game Master 5 format for importing.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
     "ccconvert": "./index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Suva/ccconvert.git"
   },
   "keywords": [
     "rpg",
