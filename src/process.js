@@ -61,15 +61,6 @@ function createXml(f) {
     return xml.end({pretty: true})
 }
 
-function modifier(value) {
-    return String(value > 0 ? '+' + value : value)
-}
-
-function proficientModifier(baseValue) {
-    return modifier(parseInt(baseValue) + proficiency)
-}
-
-
 function createXmlFileName(file) {
     const filePath = path.parse(file);
     delete filePath.base
