@@ -24,7 +24,7 @@ and import them to Game Master 5E for playing.
 Disclaimer
 ----------
 
-Wizards of the Coast, Dungeons & Dragons, D&D Beyond and their logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2018 Wizards. All Rights Reserved.
+Wizards of the Coast, Dungeons & Dragons, D&D and their respective logos are trademarks of Wizards of the Coast LLC in the United States and other countries. © 2018 Wizards. All Rights Reserved.
 
-This software is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. This subreddit may use the trademarks and other intellectual property of Wizards of the Coast LLC, which is permitted under Wizards' Fan Site Policy. For example, Dungeons & Dragons® is a trademark of Wizards of the Coast. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at www.wizards.com.
+This software is not affiliated with, endorsed, sponsored, or specifically approved by Wizards of the Coast LLC. For more information about Wizards of the Coast or any of Wizards' trademarks or other intellectual property, please visit their website at http://www.wizards.com
 
