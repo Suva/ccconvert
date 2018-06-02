@@ -20,6 +20,7 @@
   "license": "ISC",
   "dependencies": {
     "commander": "^2.15.1",
-    "pdf2json": "^1.1.7"
+    "pdf2json": "^1.1.7",
+    "xmlbuilder": "^10.0.0"
   }
 }
