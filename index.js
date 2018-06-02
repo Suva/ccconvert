@@ -1,9 +1,10 @@
 #!/usr/bin/env node
 const program = require('commander')
 const fp = require('./src/process')
+const pjson = require('./package.json')
 
 program
-    .version('1.0.0')
+    .version(pjson.version)
     .usage('[options] <file...>')
     .option('-f, --force', 'Overwrite existing files')
     .parse(process.argv)

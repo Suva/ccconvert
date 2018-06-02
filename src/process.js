@@ -70,7 +70,7 @@ function createXmlFileName(file) {
 
 async function processFiles({args: files, force}) {
     for (let file of files) {
-        console.log("Parsing file: ", file)
+        console.log("Parsing file:", file)
         let fields = await pdf.getFields(file)
         fields = fields.reduce((memo, field) => ({...memo, [field.id]: field.value}))
 
@@ -81,6 +81,7 @@ async function processFiles({args: files, force}) {
             throw new Error('File already exists: ' + xmlFileName + '\nUse -f flag to overwrite existing files.')
         }
 
+        console.log("Writing file:", xmlFileName)
         fs.writeFileSync(xmlFileName, xml)
     }
 }
