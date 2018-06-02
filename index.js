@@ -8,7 +8,9 @@ program
     .option('-f, --force', 'Overwrite existing files')
     .parse(process.argv)
 
-async function run() {
+run(program)
+
+async function run(program) {
     if (!process.argv.slice(2).length) {
         program.outputHelp();
     } else {
@@ -20,4 +22,3 @@ async function run() {
     }
 }
 
-run()
